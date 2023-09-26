@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/adidas.Project/static/css/main.35ef2b54.css",
-    "main.js": "/adidas.Project/static/js/main.67a2d563.js",
-    "static/js/787.a09012be.chunk.js": "/adidas.Project/static/js/787.a09012be.chunk.js",
-    "index.html": "/adidas.Project/index.html",
-    "main.35ef2b54.css.map": "/adidas.Project/static/css/main.35ef2b54.css.map",
-    "main.67a2d563.js.map": "/adidas.Project/static/js/main.67a2d563.js.map",
-    "787.a09012be.chunk.js.map": "/adidas.Project/static/js/787.a09012be.chunk.js.map"
+    "main.css": "/adidas/static/css/main.35ef2b54.css",
+    "main.js": "/adidas/static/js/main.0bb0972f.js",
+    "static/js/787.a09012be.chunk.js": "/adidas/static/js/787.a09012be.chunk.js",
+    "index.html": "/adidas/index.html",
+    "main.35ef2b54.css.map": "/adidas/static/css/main.35ef2b54.css.map",
+    "main.0bb0972f.js.map": "/adidas/static/js/main.0bb0972f.js.map",
+    "787.a09012be.chunk.js.map": "/adidas/static/js/787.a09012be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35ef2b54.css",
-    "static/js/main.67a2d563.js"
+    "static/js/main.0bb0972f.js"
   ]
 }
